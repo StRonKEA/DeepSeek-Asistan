@@ -3,7 +3,8 @@
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Script-blue)](https://www.tampermonkey.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-DeepSeek chat arayüzü için otomatik retry ve continue buton tıklayıcı. Sunucu hatalarında otomatik olarak müdahale eder.
+DeepSeek chat arayüzü için otomatik retry ve continue buton tıklayıcı. 
+Sunucu hatalarında otomatik olarak müdahale eder.
 
 ## ✨ Özellikler
 

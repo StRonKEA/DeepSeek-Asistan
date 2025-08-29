@@ -1,97 +1,92 @@
-?? Turkce Ozellikler ve Kullan?m K?lavuzu
-?? DeepSeek Asistan - Taray?c? Eklentisi
-DeepSeek platformu icin geli?tirilmi?, otomatik yeniden deneme ve devam etme ozelliklerine sahip kullan??l? bir taray?c? eklentisi.
+📋 Türkçe Özellikler ve Kullanım Kılavuzu
+🌟 DeepSeek Asistan - Tarayıcı Eklentisi
+DeepSeek platformu için geliştirilmiş, otomatik yeniden deneme ve devam etme özelliklerine sahip kullanışlı bir tarayıcı eklentisi.
 
-? Ozellikler
-?? Otomatik Yeniden Deneme: Sunucu me?gul hatas? ald???n?zda otomatik olarak yeniden dener
+✨ Özellikler
+🔄 Otomatik Yeniden Deneme: Sunucu meşgul hatası aldığınızda otomatik olarak yeniden dener
 
-<<<<<<< HEAD
-? Otomatik Devam Et: Devam et butonunu otomatik olarak t?klar
-=======
-DeepSeek chat arayüzü için otomatik retry ve continue buton tıklayıcı. 
-Sunucu hatalarında otomatik olarak müdahale eder.
->>>>>>> 22bdc495e6a7c6495de848241cf6621ff836f101
+⏩ Otomatik Devam Et: Devam et butonunu otomatik olarak tıklar
 
-?? Ak?ll? Tarama: Manuel tarama ile sayfadaki hatalar? ve butonlar? kontrol eder
+🎯 Akıllı Tarama: Manuel tarama ile sayfadaki hataları ve butonları kontrol eder
 
-?? ?statistik Takibi: Yeniden deneme ve devam etme say?lar?n? takip eder
+📊 İstatistik Takibi: Yeniden deneme ve devam etme sayılarını takip eder
 
-?? Coklu Dil Deste?i: Turkce ve ?ngilizce dil secenekleri
+🌐 Çoklu Dil Desteği: Türkçe ve İngilizce dil seçenekleri
 
-?? Modern Arayuz: Glassmorphism tasar?m? ile modern ve ??k arayuz
+🎨 Modern Arayüz: Glassmorphism tasarımı ile modern ve şık arayüz
 
-?? Surukle ve B?rak: Paneli ekran?n istedi?iniz yerine ta??yabilirsiniz
+📌 Sürükle ve Bırak: Paneli ekranın istediğiniz yerine taşıyabilirsiniz
 
-?? Kucultme Ozelli?i: Paneli kuculterek alandan tasarruf edebilirsiniz
+↕️ Küçültme Özelliği: Paneli küçülterek alandan tasarruf edebilirsiniz
 
-?? Gercek Zamanl? Bildirimler: Son i?lemleri gercek zamanl? olarak gosterir
+📝 Gerçek Zamanlı Bildirimler: Son işlemleri gerçek zamanlı olarak gösterir
 
-?? ?statistik S?f?rlama: Tum istatistikleri tek t?klamayla s?f?rlama
+🔁 İstatistik Sıfırlama: Tüm istatistikleri tek tıklamayla sıfırlama
 
-?? Kurulum
-Taray?c?n?za Tampermonkey veya benzeri bir userscript eklentisi kurun
+🚀 Kurulum
+Tarayıcınıza Tampermonkey veya benzeri bir userscript eklentisi kurun
 
-Yeni script olu?tur ve a?a??daki kodu yap??t?r
+Yeni script oluştur ve aşağıdaki kodu yapıştır
 
-Scripti kaydedin ve DeepSeek sayfas?n? yenileyin
+Scripti kaydedin ve DeepSeek sayfasını yenileyin
 
-?? Kullan?m
-DeepSeek sohbet sayfas?n? ac?n
+🎮 Kullanım
+DeepSeek sohbet sayfasını açın
 
-Sa? ustte beliren DeepSeek Asistan panelini goreceksiniz
+Sağ üstte beliren DeepSeek Asistan panelini göreceksiniz
 
-Ba?lat butonuna t?klayarak otomatik izlemeyi etkinle?tirin
+Başlat butonuna tıklayarak otomatik izlemeyi etkinleştirin
 
-Tara butonu ile manuel olarak sayfay? tarayabilirsiniz
+Tara butonu ile manuel olarak sayfayı tarayabilirsiniz
 
-Panel dilini de?i?tirmek icin TR/EN butonunu kullan?n
+Panel dilini değiştirmek için TR/EN butonunu kullanın
 
-Paneli ta??mak icin ? Surukle butonunu kullan?n
+Paneli taşımak için ⤴ Sürükle butonunu kullanın
 
-?? Teknik Ozellikler
+⚙️ Teknik Özellikler
 Maksimum Yeniden Deneme: 5
 
 Yeniden Deneme Gecikmesi: 2000ms
 
-Kontrol Aral???: 3000ms
+Kontrol Aralığı: 3000ms
 
-Taray?c? Uyumlulu?u: Tampermonkey, Greasemonkey
+Tarayıcı Uyumluluğu: Tampermonkey, Greasemonkey
 
-Desteklenen Siteler: chat.deepseek.com ve tum alt domainler
+Desteklenen Siteler: chat.deepseek.com ve tüm alt domainler
 
-?? English Features and User Guide
-?? DeepSeek Assistant - Browser Extension
+📋 English Features and User Guide
+🌟 DeepSeek Assistant - Browser Extension
 A useful browser extension for the DeepSeek platform with automatic retry and continue features.
 
-? Features
-?? Auto Retry: Automatically retries when you get a server busy error
+✨ Features
+🔄 Auto Retry: Automatically retries when you get a server busy error
 
-? Auto Continue: Automatically clicks the continue button
+⏩ Auto Continue: Automatically clicks the continue button
 
-?? Smart Scan: Manually scan for errors and buttons on the page
+🎯 Smart Scan: Manually scan for errors and buttons on the page
 
-?? Statistics Tracking: Tracks retry and continue counts
+📊 Statistics Tracking: Tracks retry and continue counts
 
-?? Multi-Language Support: Turkish and English language options
+🌐 Multi-Language Support: Turkish and English language options
 
-?? Modern Interface: Modern and sleek interface with glassmorphism design
+🎨 Modern Interface: Modern and sleek interface with glassmorphism design
 
-?? Drag and Drop: Move the panel anywhere on your screen
+📌 Drag and Drop: Move the panel anywhere on your screen
 
-?? Minimize Feature: Minimize the panel to save space
+↕️ Minimize Feature: Minimize the panel to save space
 
-?? Real-Time Notifications: Shows last actions in real time
+📝 Real-Time Notifications: Shows last actions in real time
 
-?? Reset Statistics: Reset all statistics with one click
+🔁 Reset Statistics: Reset all statistics with one click
 
-?? Installation
+🚀 Installation
 Install Tampermonkey or similar userscript extension in your browser
 
 Create a new script and paste the provided code
 
 Save the script and refresh the DeepSeek page
 
-?? How to Use
+🎮 How to Use
 Open the DeepSeek chat page
 
 You'll see the DeepSeek Assistant panel appear at the top right
@@ -102,9 +97,9 @@ Use the Scan button to manually scan the page
 
 Change the panel language using the TR/EN button
 
-Use the ? Drag button to move the panel
+Use the ⤴ Drag button to move the panel
 
-?? Technical Specifications
+⚙️ Technical Specifications
 Max Retries: 5
 
 Retry Delay: 2000ms

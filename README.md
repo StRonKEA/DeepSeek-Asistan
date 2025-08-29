@@ -5,7 +5,12 @@ DeepSeek platformu icin geli?tirilmi?, otomatik yeniden deneme ve devam etme oze
 ? Ozellikler
 ?? Otomatik Yeniden Deneme: Sunucu me?gul hatas? ald???n?zda otomatik olarak yeniden dener
 
+<<<<<<< HEAD
 ? Otomatik Devam Et: Devam et butonunu otomatik olarak t?klar
+=======
+DeepSeek chat arayüzü için otomatik retry ve continue buton tıklayıcı. 
+Sunucu hatalarında otomatik olarak müdahale eder.
+>>>>>>> 22bdc495e6a7c6495de848241cf6621ff836f101
 
 ?? Ak?ll? Tarama: Manuel tarama ile sayfadaki hatalar? ve butonlar? kontrol eder
 
